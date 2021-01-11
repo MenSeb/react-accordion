@@ -74,5 +74,9 @@
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
+  },
+  "dependencies": {
+    "@menseb/react-context-reducer": "^1.1.2",
+    "nanoid": "^3.1.20"
   }
 }
